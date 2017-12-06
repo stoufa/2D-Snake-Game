@@ -1,6 +1,8 @@
 # Jeu-Snake-2D-SDL
 Jeu Snake en 2D développée en C avec la librairie SDL
 
+![preview](https://raw.githubusercontent.com/stoufa/Jeu-Snake-2D-SDL/master/snake.gif)
+
 Malheureusement, je n'ai plus le code source de l'application ! je n'ai trouvé que l'exécutable
 c'est un projet que j'ai fait pendant l'été de l'année 2013
 le jeu est écrit en C à l'aide de la librairie SDL
