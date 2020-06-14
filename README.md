@@ -37,3 +37,12 @@ Le principe du jeu est simple : collectionner tous les fruits tout en évitant l
 <p align="center">
   <img src="https://raw.githubusercontent.com/stoufa/Jeu-Snake-2D-SDL/master/screenshots/06.png" alt="Jeu-Snake-2D-SDL-Preview"/>
 </p>
+
+<hr>
+
+<img src="https://emojis.slackmojis.com/emojis/images/1485555744/1681/bitcoin.png" valign="middle" width="40" /> &nbsp; If you found this helpful, consider helping me by sending some Bitcoins to the following address. Thank you 😊
+
+<pre align="center">
+15m4Prjz4WLSsCgBcZTa62cUetiwo6sZKg
+</pre>
+
